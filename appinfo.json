@@ -7,7 +7,13 @@
     "longName": "Tutorial-1-3",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_DOS_36",
+                "type": "font"
+            }
+        ]
     },
     "shortName": "Tutorial-1-3",
     "uuid": "44414132-d282-491b-a002-2668ee245587",
